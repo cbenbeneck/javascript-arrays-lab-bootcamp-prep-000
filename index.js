@@ -52,6 +52,8 @@ function removeLastKitten() {
   return lessKittens
 }
 
-
+var kittens = [ "Milo", "Otis", "Garfield"]; 
+  var lostKitten = [...kittens]
+  lostKitten.
 
   
