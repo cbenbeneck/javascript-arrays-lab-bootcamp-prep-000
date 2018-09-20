@@ -54,6 +54,6 @@ function removeLastKitten() {
 
 var kittens = [ "Milo", "Otis", "Garfield"]; 
   var lostKitten = [...kittens]
-  lostKitten.
+  lostKitten.s
 
   
