@@ -53,7 +53,14 @@ function removeLastKitten() {
 }
 
 var kittens = [ "Milo", "Otis", "Garfield"]; 
-  var lostKitten = [...kittens]
-  lostKitten.s
+
+function removeFirstKitten() {
+  var lostKitten = [...kittens] 
+  lostKitten.shift()
+  return lostKitten
+  }
+  
+  
+  
 
   
