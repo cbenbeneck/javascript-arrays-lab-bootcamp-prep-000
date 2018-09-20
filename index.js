@@ -48,8 +48,8 @@ var kittens = [ "Milo", "Otis", "Garfield"];
 
 function removeLastKitten() {
   var lessKittens = [...kittens]
-  lessKittens.
-  return kittens
+  lessKittens.pop()
+  return lessKittens
 }
 
 
